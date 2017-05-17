@@ -1,0 +1,11 @@
+Package: ComplexNetwork
+Type: Package
+Title: Tools for Complex Network
+Version: 0.1
+Date: 2017-2-22
+Author: Wenfeng Feng
+Maintainer: Wenfeng Feng <fengwenfeng@gmail.com>
+Description: To be ...
+License: GPL-3
+LazyData: TRUE
+Suggests: testthat
